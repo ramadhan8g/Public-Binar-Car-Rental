@@ -1,0 +1,38 @@
+.why-us {
+  padding-bottom: 150px;
+}
+
+.card-whyus img {
+  width: 12%;
+  margin-left: 10%;
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+.card-whyus {
+  border: 3px solid #e5e5e5;
+  height: 25 vh !important;
+  border-radius: 10px;
+}
+
+.title-whyus {
+  margin-bottom: 10%;
+  margin-left: 5%;
+}
+
+.text-whyus {
+  margin-left: 5%;
+  font-weight: 600;
+}
+
+.title-why-us h1 {
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2rem;
+}
+
+.title-why-us p {
+  font-weight: 700;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}

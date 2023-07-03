@@ -1,0 +1,4 @@
+.accordion {
+  grid-gap: 15px;
+  display: grid;
+}

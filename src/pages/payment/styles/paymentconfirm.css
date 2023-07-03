@@ -1,0 +1,157 @@
+.detail-payment-validation {
+    justify-content: center;
+    padding-top: 60px;
+    height: 500px;
+    border-radius: 10px;
+    border: 3px solid #e5e5e5;
+    margin: 0 0 0 auto;
+}
+
+.payment-description-validation {
+    border: 3px solid #e5e5e5;
+    padding: 40px !important;
+    border-radius: 10px;
+}
+
+
+.w-100-payment-validation{
+    width: 100%;
+}
+
+.row-payment-validation {
+    padding-bottom: 150px;
+    column-gap: 40px;
+}
+
+
+.payment-section {
+    border: 3px solid #e5e5e5;
+    padding: 40px !important;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.payment-section .payment-info h5{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+    color: #000000;
+}
+
+.payment-section .payment-info .payment-option .nav-link{
+    color: black;
+    width: 159px;
+    height: 40px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+
+.right-content-payment {
+    border: 3px solid #e5e5e5;
+    padding: 40px !important;
+    border-radius: 10px;
+   
+}
+
+.coloumn-copy-rek h5 {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    color: #3C3C3C;
+}
+
+.coloumn-copy-totalpay h5 {
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 12px;
+    line-height: 18px;
+    color: #3C3C3C;
+}
+
+.custom-button.custom-btn-light {
+    width: 68px;
+    height: 30px;
+    background: #FFFFFF;
+    border: 1px solid #D0D0D0;
+    border-radius: 4px;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #000000;
+  }
+
+  .bank-info {
+    display: flex;
+    flex-direction: column;
+    margin-left: 0px;
+  }
+  
+  .bank-info p {
+    margin: 0;
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 18px;
+    color: #000000;
+  }
+
+  .payment-section-bank {
+    margin-top: 22px;
+    margin-bottom: 16px;
+  }
+  
+  .input-group {
+    position: relative;
+  }
+  
+  .input-group input {
+    padding-right: 36px;
+    margin-bottom: 16px;
+  }
+  
+  .input-group button {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: none;
+    border: none;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+  }
+  
+  .modal-title-notif {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 40px;
+  }
+  
+  .modal-content .modal-notif {
+      height: 600px;
+      background-color: #E5E5E5;
+      border-radius: 10px;
+  }
+  .image-modal {
+    justify-content: center;
+    display: flex;
+    padding-top: 100px;
+  }
+  
+  .count-time-modal {
+    text-align: center;
+    margin-top: 50px;
+  }
