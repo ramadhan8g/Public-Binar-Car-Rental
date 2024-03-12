@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+![portofolio1](https://github.com/ramadhan8g/Public-Binar-CarRental/assets/62496987/ad2300e3-6f0b-4829-8199-a9cd9b98f238)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
