@@ -6,7 +6,7 @@
 <img width="248" height="170" alt="carrental1" src="https://github.com/ramadhan8g/Public-Binar-CarRental/assets/62496987/9b877d74-dfe1-41a6-9b5e-3f5889edf5c5">
 <img width="167" height="170" alt="carrental2" src="https://github.com/ramadhan8g/Public-Binar-CarRental/assets/62496987/00f232ea-68fd-4b82-9ddf-d176a90abe41">
 <img width="169" alt="carrental3" src="https://github.com/ramadhan8g/Public-Binar-CarRental/assets/62496987/07923544-319e-4caf-b515-8927e56a0a81">
-![03](https://github.com/ramadhan8g/Public-Binar-CarRental/assets/62496987/63f3fbdf-09f6-4954-8b76-c905396d8ea0)
+
 
 
 
