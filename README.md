@@ -4,6 +4,8 @@
 
 
 <img width="248" alt="carrental1" src="https://github.com/ramadhan8g/Public-Binar-CarRental/assets/62496987/9b877d74-dfe1-41a6-9b5e-3f5889edf5c5">
+<img width="167" alt="carrental2" src="https://github.com/ramadhan8g/Public-Binar-CarRental/assets/62496987/00f232ea-68fd-4b82-9ddf-d176a90abe41">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
