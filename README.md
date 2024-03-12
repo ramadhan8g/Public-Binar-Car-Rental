@@ -3,13 +3,15 @@
 ![portofolio1](https://github.com/ramadhan8g/Public-Binar-CarRental/assets/62496987/ad2300e3-6f0b-4829-8199-a9cd9b98f238)
 
 
-<img width="248" height="150" alt="carrental1" src="https://github.com/ramadhan8g/Public-Binar-CarRental/assets/62496987/9b877d74-dfe1-41a6-9b5e-3f5889edf5c5">
-<img width="167" height="150" alt="carrental2" src="https://github.com/ramadhan8g/Public-Binar-CarRental/assets/62496987/00f232ea-68fd-4b82-9ddf-d176a90abe41">
+<img width="248" height="170" alt="carrental1" src="https://github.com/ramadhan8g/Public-Binar-CarRental/assets/62496987/9b877d74-dfe1-41a6-9b5e-3f5889edf5c5">
+<img width="167" height="170" alt="carrental2" src="https://github.com/ramadhan8g/Public-Binar-CarRental/assets/62496987/00f232ea-68fd-4b82-9ddf-d176a90abe41">
 <img width="169" alt="carrental3" src="https://github.com/ramadhan8g/Public-Binar-CarRental/assets/62496987/07923544-319e-4caf-b515-8927e56a0a81">
 <img width="168" alt="carrental4" src="https://github.com/ramadhan8g/Public-Binar-CarRental/assets/62496987/25b926ac-6b8a-4421-83be-5f4dcc5e9cc4">
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+from studycase Binar Academy Front End
+https://www.figma.com/file/4zYkD4C44eIoa1GqMQPY6x/BCR---Binar-Car-Rental-(Platinum)?node-id=22128%3A14016 
 
 ## Available Scripts
 
