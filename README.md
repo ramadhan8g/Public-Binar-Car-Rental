@@ -3,6 +3,7 @@
 ![portofolio1](https://github.com/ramadhan8g/Public-Binar-CarRental/assets/62496987/ad2300e3-6f0b-4829-8199-a9cd9b98f238)
 
 
+<img width="248" alt="carrental1" src="https://github.com/ramadhan8g/Public-Binar-CarRental/assets/62496987/9b877d74-dfe1-41a6-9b5e-3f5889edf5c5">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
